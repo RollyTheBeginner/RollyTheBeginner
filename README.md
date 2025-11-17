@@ -7,7 +7,6 @@
   </a>
 </p>
 
-
 - 💬 Ask me about **Programming, Cooking, Lifestyle**
 
 - 📫 How to reach me **rollyjunior6@gmail.com**

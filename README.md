@@ -16,32 +16,13 @@
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/rollyjunior" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="https://fb.com/rollycarrascaljr" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/rollyjunior6" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-
-  <a href="https://www.leetcode.com/bo1obokfrs" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
 </p>
 
 
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-</div>
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -57,64 +38,35 @@
 
 <h3 align="left">Backend:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin:5px"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="margin:5px"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin:5px"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin:5px"/>
-  </a>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </p>
 
 <h4 align="left">Database:</h4>
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin:5px"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin:5px"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin:5px"/>
-  </a>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
+
 
 <h4 align="left">Frameworks & Libraries:</h4>
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="margin:5px"/>
-  </a>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </p>
 
-<h4 align="left">Cloud & Tools:</h4>
+
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin:5px"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="margin:5px"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin:5px"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin:5px"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin:5px"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin:5px"/>
-  </a>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rollythebeginner&show_icons=true&locale=en&layout=compact" 

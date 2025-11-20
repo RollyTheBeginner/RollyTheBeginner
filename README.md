@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rolly</h1>
 <h3 align="center">I'm a Full Stack Developer from the Philippines.</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" style="margin:0 5px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=rollythebeginner&margin-w=5&margin-h=5" alt="rollythebeginner" />
-  </a>
-</p>
-
 - 💬 Ask me about **Programming, Cooking, Lifestyle**
 
 - 📫 How to reach me **rollyjunior6@gmail.com**

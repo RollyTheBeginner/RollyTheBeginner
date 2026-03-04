@@ -71,10 +71,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rollythebeginner&show_icons=true&locale=en&layout=compact" 
-       alt="Top Languages" height="150" style="margin:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rollythebeginner&show_icons=true&locale=en" 
-       alt="GitHub Stats" height="150" style="margin:10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rollythebeginner" 
        alt="Streak Stats" height="150" style="margin:10px;" />
 </p>
